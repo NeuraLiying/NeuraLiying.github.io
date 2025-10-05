@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "images/profile.png"
   name             : "Ying Li" 
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio: "Researcher in Efficient AI, LLM/MLLM Inference, and Machine Learning Systems."
+  location         : "Hangzhou, Zhejiang, China"
+  employer         : "Westlake University"
   uri              : # URL
   email            : "liying06@westlake.edu.cn" 
 
