@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 👋 Hi, I’m **Ying Li**, a researcher focusing on **Efficient AI**, **Large/Multimodal Language Model (LLM/MLLM) Inference**, and **Machine Learning Systems (MLSys)**.  
-My work aims to make large models more efficient, adaptive, and deployable on resource-constrained platforms — spanning areas from **quantization and dynamic inference** to **AI for Science**.
+My work aims to make large models more efficient, adaptive, and deployable on resource-constrained platforms — spanning areas from **dynamic inference** to **AI for Science**.
 
 I am currently based in **Hangzhou, Zhejiang, China**, and affiliated with **Westlake University**.  
 
