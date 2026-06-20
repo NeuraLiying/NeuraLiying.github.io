@@ -9,8 +9,8 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
 
 ### Research Interests 🔍
 
-> *"压缩即智能"* — Marcus Hutter  
-> *"机器学习的效率与泛化，本质上取决于能否找到高阶、解耦的表征"* — Yoshua Bengio
+> *"Compression is intelligence."* — Marcus Hutter  
+> *"The efficiency and generalization of machine learning fundamentally depend on learning high-order, disentangled representations."* — Yoshua Bengio
 
 - **Efficient AI** — model compression, inference acceleration, dynamic / speculative decoding
 - **Generative Models**
