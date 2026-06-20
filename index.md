@@ -22,7 +22,7 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
     <li><b><font color="#b80000">[Jan 7, 2025]</font></b> 🎉 Joined <a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, Encode Lab, as a Postdoctoral Researcher.</li>
     <li><b><font color="#b80000">[Dec 22, 2022]</font></b> 💼 Joined <a href="https://en.zhejianglab.com/" target="_blank">Zhejiang Lab</a>, working on Intelligent Computing and AI for Science.</li>
     <li><b><font color="#b80000">[Dec 15, 2022]</font></b> 🎓 Received my Ph.D. from <a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a>.</li>
-    <li><b><font color="#b80000">[Jun 2017]</font></b> 🎓 Received my B.Eng. from <a href="https://en.dlut.edu.cn/" target="_blank">Dalian University of Technology</a>.</li>
+    <li><b><font color="#b80000">[Jun 2017]</font></b> 🎓 Received my M.Eng. from <a href="https://en.dlut.edu.cn/" target="_blank">Dalian University of Technology</a>.</li>
   </ul>
 </div>
 
@@ -57,7 +57,7 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; width:170px; padding:0.6rem 0; text-align:left;"><b>B.Eng., Jun 2017</b></td>
+    <td style="vertical-align:top; width:170px; padding:0.6rem 0; text-align:left;"><b>M.Eng., Jun 2017</b></td>
     <td style="vertical-align:top; padding:0.6rem 0; text-align:left;">
       <a href="https://en.dlut.edu.cn/" target="_blank">Dalian University of Technology</a>
     </td>
