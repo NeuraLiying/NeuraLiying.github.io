@@ -9,8 +9,8 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
 
 ### Research Interests 🔍
 
-> *"Compression is intelligence."* — Marcus Hutter  
-> *"The efficiency and generalization of machine learning fundamentally depend on learning high-order, disentangled representations."* — Yoshua Bengio
+> *"Being able to compress well is closely related to intelligence."* — Marcus Hutter (2005), [Hutter Prize](http://prize.hutter1.net/)  
+> *"The success of machine learning algorithms generally depends on data representation."* — Bengio, Courville & Vincent (2013), [arXiv:1206.5538](https://arxiv.org/abs/1206.5538)
 
 - **Efficient AI** — model compression, inference acceleration, dynamic / speculative decoding
 - **Generative Models**
