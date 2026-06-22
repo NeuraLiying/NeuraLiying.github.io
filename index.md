@@ -186,7 +186,7 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
   </td>
   <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
     <font face="Lato"><b><a href="http://kinampark.com/T-Polymers/files/All%20References/Yuan%202025%2C%20Intelligent%20design%20of%20lipid%20nanoparticles%20for%20enhanced%20gene%20therapeutics.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">Intelligent Design of Lipid Nanoparticles for Enhanced Gene Therapeutics</a></b></font><br>
-    Yichen Yuan<sup>🌟</sup>, <b>Ying Li</b><sup>🌟</sup>, Guo Li<sup>🌟</sup>, Liqun Lei, Xingxu Huang, Ming Li, Yuan Yao<br>
+    Yichen Yuan<sup>🌟</sup>, <b>Ying Li</b><sup>🌟</sup>, Guo Li<sup>🌟</sup>, Liqun Lei, Xingxu Huang, Ming Li, Yuan Yao<sup>✉️</sup><br>
     <span class="pub-info"><i><b>Molecular Pharmaceutics</b>, 2025 <b>(<font color="#FF0000">Editor's Choice</font>, &lt;1%)</b></i> &nbsp;
       [<a href="http://kinampark.com/T-Polymers/files/All%20References/Yuan%202025%2C%20Intelligent%20design%20of%20lipid%20nanoparticles%20for%20enhanced%20gene%20therapeutics.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
     </span>
@@ -200,7 +200,7 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
   </td>
   <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
     <font face="Lato"><b><a href="https://ieeexplore.ieee.org/abstract/document/10822596" target="_blank" style="color:#2a7ce0;text-decoration:none;">LEMTL: Enhancing the pharmacokinetic predictions of multitask learning with existing pharmacokinetics</a></b></font><br>
-    <b>Ying Li</b>, Xiao Deng, Jingsong Lv, Hongyang Chen, Yao Yang<br>
+    <b>Ying Li</b>, Xiao Deng, Jingsong Lv, Hongyang Chen, Yao Yang<sup>✉️</sup><br>
     <span class="pub-info"><i><b>BIBM</b>, 2024</i> &nbsp;
       [<a href="https://ieeexplore.ieee.org/abstract/document/10822596" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
     </span>
