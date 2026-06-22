@@ -77,30 +77,46 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
 
 ### Publications 📚
 
-*(Full list on [Google Scholar](https://scholar.google.com/citations?user=jIkHgFAAAAAJ). Selected recent papers below.)*
+*(Full list on [Google Scholar](https://scholar.google.com/citations?user=jIkHgFAAAAAJ). Selected recent papers below. <sup>✉️</sup> = corresponding author.)*
 
 <p>
-  <b>Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation</b><br>
-  <i>ICML 2026</i> &nbsp;
-  [<a href="https://icml.cc/virtual/2026/poster/65615" target="_blank">Paper</a>]
+  <b>EVAR: Edge Visual Autoregressive Models via Principled Pruning</b><br>
+  Zefang Wang, <b>Ying Li</b>, Yanyu Li, Mingluo Su, Simin Xu, Guanzhong Tian, Huan Wang<sup>✉️</sup><br>
+  <i><b>ECCV</b>, 2026</i> <i>(provisionally accepted)</i>
+</p>
+
+<p>
+  <b>LISA: Locality-Informed Speculative Decoding for Accelerating Autoregressive Image Generation</b><br>
+  <b>Ying Li</b>, Siyong Jian, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <i><b>ECCV</b>, 2026</i> <i>(provisionally accepted)</i>
 </p>
 
 <p>
   <b>ARC-Decode: Accelerated Decoding with Risk-Bounded Acceptance</b><br>
-  <i>ICML 2026</i> &nbsp;
+  <b>Ying Li</b>, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <i><b>ICML</b>, 2026</i> &nbsp;
   [<a href="https://icml.cc/virtual/2026/poster/66788" target="_blank">Paper</a>]
 </p>
 
 <p>
+  <b>Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation</b><br>
+  <b>Ying Li</b>, Zefang Wang, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <i><b>ICML</b>, 2026</i> &nbsp;
+  [<a href="https://icml.cc/virtual/2026/poster/65615" target="_blank">Paper</a>]
+</p>
+
+<p>
   <b>Parallel Jacobi Decoding for Fast Autoregressive Image Generation</b><br>
-  <i>CVPR 2026</i> &nbsp;
+  Boya Liao, <b>Ying Li</b>, Siyong Jian, Huan Wang<sup>✉️</sup><br>
+  <i><b>CVPR</b>, 2026</i> &nbsp;
   [<a href="https://boyaliao.github.io/PJD/" target="_blank">Project</a>]
   [<a href="https://github.com/boyaliao/PJD" target="_blank">Code</a>]
 </p>
 
 <p>
   <b>FreqExit: Enabling Early-Exit Inference for Visual Autoregressive Models via Frequency-Aware Guidance</b><br>
-  <i>NeurIPS 2025</i> &nbsp;
+  <b>Ying Li</b>, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <i><b>NeurIPS</b>, 2025</i> &nbsp;
   [<a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/95cb60b65d9f2c0cd78b567ffebde9e6-Paper-Conference.pdf" target="_blank">Paper</a>]
   [<a href="https://github.com/NeuraLiying/FreqExit" target="_blank">Code</a>]
 </p>
