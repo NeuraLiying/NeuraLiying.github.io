@@ -25,6 +25,7 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
     <li><b><font color="#b80000">[Jun 18, 2026]</font></b> 🎉 Two papers — <b>LISA</b> (locality-informed speculative decoding) and <b>EVAR</b> (edge VAR via principled pruning) — are <b>provisionally accepted</b> by <b>ECCV 2026</b>.</li>
     <li><b><font color="#b80000">[Jun 9, 2026]</font></b> ✈️ Attending <b>CVPR 2026</b> — presenting <b>Parallel Jacobi Decoding</b> at the poster session.</li>
     <li><b><font color="#b80000">[Jun 8, 2026]</font></b> 🏆 Honored with the <b>CVPR 2026 Compute Transparency Champion</b> award.</li>
+    <li><b><font color="#b80000">[May 20, 2026]</font></b> 📄 Released <b>RankE</b> — end-to-end post-training for discrete text-to-image generation with decoder co-evolution. [<a href="https://arxiv.org/pdf/2605.21195" target="_blank">Paper</a>] [<a href="https://github.com/syjmelody/RankE" target="_blank">Code</a>]</li>
     <li><b><font color="#b80000">[May 14, 2026]</font></b> 🏆 Recognized as a <b>Gold Reviewer</b> at <b>ICML 2026</b>.</li>
     <li><b><font color="#b80000">[May 1, 2026]</font></b> 🎉 Two papers accepted by <b>ICML 2026</b>: <a href="https://icml.cc/virtual/2026/poster/65615" target="_blank"><b>Prism-MoE</b></a> and <a href="https://icml.cc/virtual/2026/poster/66788" target="_blank"><b>ARC-Decode</b></a>.</li>
     <li><b><font color="#b80000">[Feb 21, 2026]</font></b> 🎉 <a href="https://boyaliao.github.io/PJD/" target="_blank"><b>Parallel Jacobi Decoding</b></a> is accepted by <b>CVPR 2026</b>.</li>
@@ -78,6 +79,14 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
 ### Publications 📚
 
 *(Full list on [Google Scholar](https://scholar.google.com/citations?user=jIkHgFAAAAAJ). Selected recent papers below. <sup>✉️</sup> = corresponding author.)*
+
+<p>
+  <b>RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution</b><br>
+  Siyong Jian, Siyuan Li, Luyuan Zhang, Zedong Wang, Xin Jin, <b>Ying Li</b>, Cheng Tan, Huan Wang<sup>✉️</sup><br>
+  <i><b>Preprint</b>, 2026</i> &nbsp;
+  [<a href="https://arxiv.org/pdf/2605.21195" target="_blank">Paper</a>]
+  [<a href="https://github.com/syjmelody/RankE" target="_blank">Code</a>]
+</p>
 
 <p>
   <b>EVAR: Edge Visual Autoregressive Models via Principled Pruning</b><br>
