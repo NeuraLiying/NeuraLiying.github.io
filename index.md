@@ -44,34 +44,34 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
 
 <table>
   <tr>
-    <td style="vertical-align:top; width:170px; padding:0.6rem 0; text-align:left;"><b>Apr 2025 – Present</b></td>
+    <td style="vertical-align:top; width:200px; padding:0.6rem 0; text-align:left; white-space:nowrap;"><b>Apr 2025 – Present</b></td>
     <td style="vertical-align:top; padding:0.6rem 0; text-align:left;">
       <b>Research Intern</b>, Alibaba (Taotian)
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; width:170px; padding:0.6rem 0; text-align:left;"><b>Jan 2025 – Present</b></td>
+    <td style="vertical-align:top; width:200px; padding:0.6rem 0; text-align:left; white-space:nowrap;"><b>Jan 2025 – Present</b></td>
     <td style="vertical-align:top; padding:0.6rem 0; text-align:left;">
       <b>Postdoctoral Researcher</b>, <a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a> (Encode Lab)<br>
       <i>Advisor: Prof. <a href="https://huanwang.tech/" target="_blank">Huan Wang</a></i>
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; width:170px; padding:0.6rem 0; text-align:left;"><b>Dec 2022 – 2024</b></td>
+    <td style="vertical-align:top; width:200px; padding:0.6rem 0; text-align:left; white-space:nowrap;"><b>Dec 2022 – 2024</b></td>
     <td style="vertical-align:top; padding:0.6rem 0; text-align:left;">
       <b>Researcher</b>, <a href="https://en.zhejianglab.com/" target="_blank">Zhejiang Lab</a><br>
       <i>Intelligent Computing / AI for Science</i>
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; width:170px; padding:0.6rem 0; text-align:left;"><b>Sep 2017 – Dec 2022</b></td>
+    <td style="vertical-align:top; width:200px; padding:0.6rem 0; text-align:left; white-space:nowrap;"><b>Sep 2017 – Dec 2022</b></td>
     <td style="vertical-align:top; padding:0.6rem 0; text-align:left;">
       <b>Ph.D.</b>, <a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a><br>
       <i>Advisor: Prof. Xuewu Cao</i>
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; width:170px; padding:0.6rem 0; text-align:left;"><b>M.Eng., Jun 2017</b></td>
+    <td style="vertical-align:top; width:200px; padding:0.6rem 0; text-align:left; white-space:nowrap;"><b>M.Eng., Jun 2017</b></td>
     <td style="vertical-align:top; padding:0.6rem 0; text-align:left;">
       <a href="https://en.dlut.edu.cn/" target="_blank">Dalian University of Technology</a>
     </td>
