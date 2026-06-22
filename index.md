@@ -80,129 +80,75 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
 
 ### Publications 📚 {#publications}
 
-*(Full list on [Google Scholar](https://scholar.google.com/citations?user=jIkHgFAAAAAJ). Selected recent papers below. <sup>✉️</sup> = corresponding author.)*
+*(Full list on [Google Scholar](https://scholar.google.com/citations?user=jIkHgFAAAAAJ). Selected recent papers below. <sup>✉️</sup> = corresponding author, <sup>🌟</sup> = co-first author.)*
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#6b7280,#374151);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:13px;letter-spacing:1px;">PREPRINT</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">May 2026</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b><a href="https://arxiv.org/pdf/2605.21195" target="_blank" style="color:#2a7ce0;text-decoration:none;">RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution</a></b></font><br>
-    Siyong Jian, Siyuan Li, Luyuan Zhang, Zedong Wang, Xin Jin, <b>Ying Li</b>, Cheng Tan, Huan Wang<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>Preprint</b>, 2026</i> &nbsp;
-      [<a href="https://arxiv.org/pdf/2605.21195" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
-      [<a href="https://github.com/syjmelody/RankE" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
-    </span>
-  </td>
-</tr></table>
+<p>
+  <b>[Arxiv]</b> &nbsp; <b><a href="https://arxiv.org/pdf/2605.21195" target="_blank" style="color:#2a7ce0;text-decoration:none;">RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution</a></b><br>
+  Siyong Jian, Siyuan Li, Luyuan Zhang, Zedong Wang, Xin Jin, <b>Ying Li</b>, Cheng Tan, Huan Wang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>Preprint</b>, 2026</i> &nbsp;
+    [<a href="https://arxiv.org/pdf/2605.21195" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+    [<a href="https://github.com/syjmelody/RankE" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
+  </span>
+</p>
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:13px;letter-spacing:1px;">ECCV</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">2026</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b>EVAR: Edge Visual Autoregressive Models via Principled Pruning</b></font><br>
-    Zefang Wang, <b>Ying Li</b>, Yanyu Li, Mingluo Su, Simin Xu, Guanzhong Tian, Huan Wang<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>ECCV</b>, 2026</i> <i>(provisionally accepted)</i></span>
-  </td>
-</tr></table>
+<p>
+  <b>[Paper]</b> &nbsp; <b>EVAR: Edge Visual Autoregressive Models via Principled Pruning</b><br>
+  Zefang Wang, <b>Ying Li</b>, Yanyu Li, Mingluo Su, Simin Xu, Guanzhong Tian, Huan Wang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>ECCV</b>, 2026</i> <i>(provisionally accepted)</i></span>
+</p>
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:13px;letter-spacing:1px;">ECCV</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">2026</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b>LISA: Locality-Informed Speculative Decoding for Accelerating Autoregressive Image Generation</b></font><br>
-    <b>Ying Li</b>, Siyong Jian, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>ECCV</b>, 2026</i> <i>(provisionally accepted)</i></span>
-  </td>
-</tr></table>
+<p>
+  <b>[Paper]</b> &nbsp; <b>LISA: Locality-Informed Speculative Decoding for Accelerating Autoregressive Image Generation</b><br>
+  <b>Ying Li</b>, Siyong Jian, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>ECCV</b>, 2026</i> <i>(provisionally accepted)</i></span>
+</p>
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#f97316,#ef4444);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:13px;letter-spacing:1px;">ICML</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">2026</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b><a href="https://icml.cc/virtual/2026/poster/66788" target="_blank" style="color:#2a7ce0;text-decoration:none;">ARC-Decode: Accelerated Decoding with Risk-Bounded Acceptance</a></b></font><br>
-    <b>Ying Li</b>, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>ICML</b>, 2026</i> &nbsp;
-      [<a href="https://icml.cc/virtual/2026/poster/66788" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
-    </span>
-  </td>
-</tr></table>
+<p>
+  <b>[Paper]</b> &nbsp; <b><a href="https://icml.cc/virtual/2026/poster/66788" target="_blank" style="color:#2a7ce0;text-decoration:none;">ARC-Decode: Accelerated Decoding with Risk-Bounded Acceptance</a></b><br>
+  <b>Ying Li</b>, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>ICML</b>, 2026</i> &nbsp;
+    [<a href="https://icml.cc/virtual/2026/poster/66788" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+  </span>
+</p>
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#f97316,#ef4444);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:13px;letter-spacing:1px;">ICML</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">2026</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b><a href="https://icml.cc/virtual/2026/poster/65615" target="_blank" style="color:#2a7ce0;text-decoration:none;">Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation</a></b></font><br>
-    <b>Ying Li</b>, Zefang Wang, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>ICML</b>, 2026</i> &nbsp;
-      [<a href="https://icml.cc/virtual/2026/poster/65615" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
-    </span>
-  </td>
-</tr></table>
+<p>
+  <b>[Paper]</b> &nbsp; <b><a href="https://icml.cc/virtual/2026/poster/65615" target="_blank" style="color:#2a7ce0;text-decoration:none;">Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation</a></b><br>
+  <b>Ying Li</b>, Zefang Wang, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>ICML</b>, 2026</i> &nbsp;
+    [<a href="https://icml.cc/virtual/2026/poster/65615" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+  </span>
+</p>
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#3b82f6,#06b6d4);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:13px;letter-spacing:1px;">CVPR</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">2026</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b><a href="https://boyaliao.github.io/PJD/" target="_blank" style="color:#2a7ce0;text-decoration:none;">Parallel Jacobi Decoding for Fast Autoregressive Image Generation</a></b></font><br>
-    Boya Liao, <b>Ying Li</b>, Siyong Jian, Huan Wang<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>CVPR</b>, 2026</i> &nbsp;
-      [<a href="https://boyaliao.github.io/PJD/" target="_blank" style="color:#2a7ce0;text-decoration:none;">Project</a>]
-      [<a href="https://github.com/boyaliao/PJD" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
-    </span>
-  </td>
-</tr></table>
+<p>
+  <b>[Paper]</b> &nbsp; <b><a href="https://boyaliao.github.io/PJD/" target="_blank" style="color:#2a7ce0;text-decoration:none;">Parallel Jacobi Decoding for Fast Autoregressive Image Generation</a></b><br>
+  Boya Liao, <b>Ying Li</b>, Siyong Jian, Huan Wang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>CVPR</b>, 2026</i> &nbsp;
+    [<a href="https://boyaliao.github.io/PJD/" target="_blank" style="color:#2a7ce0;text-decoration:none;">Project</a>]
+    [<a href="https://github.com/boyaliao/PJD" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
+  </span>
+</p>
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#10b981,#059669);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:13px;letter-spacing:1px;">NeurIPS</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">2025</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b><a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/95cb60b65d9f2c0cd78b567ffebde9e6-Paper-Conference.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">FreqExit: Enabling Early-Exit Inference for Visual Autoregressive Models via Frequency-Aware Guidance</a></b></font><br>
-    <b>Ying Li</b>, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>NeurIPS</b>, 2025</i> &nbsp;
-      [<a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/95cb60b65d9f2c0cd78b567ffebde9e6-Paper-Conference.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
-      [<a href="https://github.com/NeuraLiying/FreqExit" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
-    </span>
-  </td>
-</tr></table>
+<p>
+  <b>[Paper]</b> &nbsp; <b><a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/95cb60b65d9f2c0cd78b567ffebde9e6-Paper-Conference.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">FreqExit: Enabling Early-Exit Inference for Visual Autoregressive Models via Frequency-Aware Guidance</a></b><br>
+  <b>Ying Li</b>, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>NeurIPS</b>, 2025</i> &nbsp;
+    [<a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/95cb60b65d9f2c0cd78b567ffebde9e6-Paper-Conference.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+    [<a href="https://github.com/NeuraLiying/FreqExit" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
+  </span>
+</p>
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#ec4899,#db2777);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:12px;letter-spacing:1px;">MOL. PHARM.</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">2025</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b><a href="http://kinampark.com/T-Polymers/files/All%20References/Yuan%202025%2C%20Intelligent%20design%20of%20lipid%20nanoparticles%20for%20enhanced%20gene%20therapeutics.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">Intelligent Design of Lipid Nanoparticles for Enhanced Gene Therapeutics</a></b></font><br>
-    Yichen Yuan<sup>🌟</sup>, <b>Ying Li</b><sup>🌟</sup>, Guo Li<sup>🌟</sup>, Liqun Lei, Xingxu Huang, Ming Li, Yuan Yao<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>Molecular Pharmaceutics</b>, 2025 <b>(<font color="#FF0000">Editor's Choice</font>, &lt;1%)</b></i> &nbsp;
-      [<a href="http://kinampark.com/T-Polymers/files/All%20References/Yuan%202025%2C%20Intelligent%20design%20of%20lipid%20nanoparticles%20for%20enhanced%20gene%20therapeutics.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
-    </span>
-  </td>
-</tr></table>
+<p>
+  <b>[Journal]</b> &nbsp; <b><a href="http://kinampark.com/T-Polymers/files/All%20References/Yuan%202025%2C%20Intelligent%20design%20of%20lipid%20nanoparticles%20for%20enhanced%20gene%20therapeutics.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">Intelligent Design of Lipid Nanoparticles for Enhanced Gene Therapeutics</a></b><br>
+  Yichen Yuan<sup>🌟</sup>, <b>Ying Li</b><sup>🌟</sup>, Guo Li<sup>🌟</sup>, Liqun Lei, Xingxu Huang, Ming Li, Yuan Yao<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>Molecular Pharmaceutics</b>, 2025 <b>(<font color="#FF0000">Editor's Choice</font>, &lt;1%)</b></i> &nbsp;
+    [<a href="http://kinampark.com/T-Polymers/files/All%20References/Yuan%202025%2C%20Intelligent%20design%20of%20lipid%20nanoparticles%20for%20enhanced%20gene%20therapeutics.pdf" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+  </span>
+</p>
 
-<table class="imgtable"><tr>
-  <td style="width:130px;vertical-align:middle;text-align:center;background:linear-gradient(135deg,#8b5cf6,#6d28d9);border-radius:8px;padding:1.1rem 0.5rem;">
-    <div style="color:#ffffff;font-weight:700;font-size:13px;letter-spacing:1px;">BIBM</div>
-    <div style="color:rgba(255,255,255,0.85);font-size:11px;margin-top:4px;">2024</div>
-  </td>
-  <td style="padding:0.6rem 0.6rem 0.6rem 1.2rem;vertical-align:top;">
-    <font face="Lato"><b><a href="https://ieeexplore.ieee.org/abstract/document/10822596" target="_blank" style="color:#2a7ce0;text-decoration:none;">LEMTL: Enhancing the pharmacokinetic predictions of multitask learning with existing pharmacokinetics</a></b></font><br>
-    <b>Ying Li</b>, Xiao Deng, Jingsong Lv, Hongyang Chen, Yao Yang<sup>✉️</sup><br>
-    <span class="pub-info"><i><b>BIBM</b>, 2024</i> &nbsp;
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10822596" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
-    </span>
-  </td>
-</tr></table>
+<p>
+  <b>[Paper]</b> &nbsp; <b><a href="https://ieeexplore.ieee.org/abstract/document/10822596" target="_blank" style="color:#2a7ce0;text-decoration:none;">LEMTL: Enhancing the pharmacokinetic predictions of multitask learning with existing pharmacokinetics</a></b><br>
+  <b>Ying Li</b>, Xiao Deng, Jingsong Lv, Hongyang Chen, Yao Yang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>BIBM</b>, 2024</i> &nbsp;
+    [<a href="https://ieeexplore.ieee.org/abstract/document/10822596" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+  </span>
+</p>
