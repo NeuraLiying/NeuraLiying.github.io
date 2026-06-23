@@ -22,15 +22,15 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
 
 <div style="max-height:500px;overflow-y:auto;padding:15px;background-color:#f9f9f9;border-radius:6px;">
   <ul>
-    <li><b><font color="#b80000">[Jun, 2026]</font></b> 🎉 Two papers — <b>LISA</b> (locality-informed speculative decoding) and <b>EVAR</b> (edge VAR via principled pruning) — are <b>provisionally accepted</b> by <b>ECCV 2026</b>.</li>
+    <li><b><font color="#b80000">[Jun, 2026]</font></b> 🎉 My first-author paper <b>LISA</b> (locality-informed speculative decoding) and <b>EVAR</b> (edge VAR via principled pruning) are <b>provisionally accepted</b> by <b>ECCV 2026</b>.</li>
     <li><b><font color="#b80000">[Jun, 2026]</font></b> ✈️ Attending <b>CVPR 2026</b>.</li>
     <li><b><font color="#b80000">[Jun, 2026]</font></b> 🏆 Honored with the <b>CVPR 2026 Compute Transparency Champion</b> award.</li>
     <li><b><font color="#b80000">[May, 2026]</font></b> 📄 Released preprint <b>RankE</b> — end-to-end post-training for discrete text-to-image generation with decoder co-evolution — congrats to <a href="https://syjmelody.github.io/" target="_blank">Siyong Jian</a>. [<a href="https://arxiv.org/pdf/2605.21195" target="_blank">Paper</a>] [<a href="https://github.com/syjmelody/RankE" target="_blank">Code</a>]</li>
-    <li><b><font color="#b80000">[May, 2026]</font></b> 🏆 Recognized as a <b>Gold Reviewer</b> at <b>ICML 2026</b>.</li>
-    <li><b><font color="#b80000">[May, 2026]</font></b> 🎉 Two papers accepted by <b>ICML 2026</b>: <a href="https://icml.cc/virtual/2026/poster/65615" target="_blank"><b>Prism-MoE</b></a> and <a href="https://icml.cc/virtual/2026/poster/66788" target="_blank"><b>ARC-Decode</b></a>.</li>
+    <li><b><font color="#b80000">[May, 2026]</font></b> 🏆 I was recognized as a <b>Gold Reviewer</b> at <b>ICML 2026</b>.</li>
+    <li><b><font color="#b80000">[May, 2026]</font></b> 🎉 Two first-author papers accepted by <b>ICML 2026</b>: <a href="https://icml.cc/virtual/2026/poster/65615" target="_blank"><b>Prism-MoE</b></a> and <a href="https://icml.cc/virtual/2026/poster/66788" target="_blank"><b>ARC-Decode</b></a>.</li>
     <li><b><font color="#b80000">[Feb, 2026]</font></b> 🎉 <a href="https://boyaliao.github.io/PJD/" target="_blank"><b>Parallel Jacobi Decoding</b></a> is accepted by <b>CVPR 2026</b> — congrats to <a href="https://boyaliao.github.io/" target="_blank">Boya Liao</a>.</li>
     <li><b><font color="#b80000">[Dec, 2025]</font></b> ✈️ Attending <b>NeurIPS 2025</b> — presenting <b>FreqExit</b> at the poster session.</li>
-    <li><b><font color="#b80000">[Sep, 2025]</font></b> 🎉 <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/95cb60b65d9f2c0cd78b567ffebde9e6-Paper-Conference.pdf" target="_blank"><b>FreqExit</b></a> is accepted by <b>NeurIPS 2025</b>.</li>
+    <li><b><font color="#b80000">[Sep, 2025]</font></b> 🎉 First-author paper <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/95cb60b65d9f2c0cd78b567ffebde9e6-Paper-Conference.pdf" target="_blank"><b>FreqExit</b></a> is accepted by <b>NeurIPS 2025</b>.</li>
     <li><b><font color="#b80000">[Jan, 2025]</font></b> 🎉 Paper <b>Intelligent Design of Lipid Nanoparticles for Enhanced Gene Therapeutics</b> is published in <b>Molecular Pharmaceutics</b> and selected as <b>Editor's Choice</b> (&lt;1%) — congrats to Yichen Yuan. [<a href="http://kinampark.com/T-Polymers/files/All%20References/Yuan%202025%2C%20Intelligent%20design%20of%20lipid%20nanoparticles%20for%20enhanced%20gene%20therapeutics.pdf" target="_blank">Paper</a>]</li>
     <li><b><font color="#b80000">[Jan, 2025]</font></b> 🎉 Joined <a href="https://en.westlake.edu.cn/" target="_blank">Westlake University</a>, Encode Lab, as a Postdoctoral Researcher.</li>
     <li><b><font color="#b80000">[Aug, 2024]</font></b> 🎉 <a href="https://ieeexplore.ieee.org/abstract/document/10822596" target="_blank"><b>LEMTL</b></a> is accepted by <b>BIBM 2024</b>.</li>
