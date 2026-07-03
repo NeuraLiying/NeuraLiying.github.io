@@ -3,19 +3,19 @@ layout: about
 ---
 ### About Me 👋
 
-Hi, I'm **Ying Li**, a researcher working on **Efficient AI**, **LLM/MLLM inference**, and **Machine Learning Systems**.
-My work focuses on making large models **faster**, **lighter**, and **deployable** on resource-constrained platforms — with applications ranging from **dynamic inference** to **AI for Science**.
+Hi, I'm **Ying Li**, a postdoctoral researcher at Westlake University working on **Efficient AI**. My goal is to make **LLMs, MLLMs, and generative models — and the agentic systems built on them — more efficient and effective**: faster to run, lighter to deploy, and better at the tasks that matter.
+
+My research spans **inference acceleration** (speculative & dynamic decoding), **model compression** (pruning, efficient MoE), **efficient generative models** (visual autoregressive generation), and **agents & world models**, with applications in **AI for Science**.
 
 ### Research Interests 🔍
 
 > *"Being able to compress well is closely related to intelligence."* — Marcus Hutter (2005), [Hutter Prize](http://prize.hutter1.net/)  
 > *"The success of machine learning algorithms generally depends on data representation."* — Bengio, Courville & Vincent (2013), [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538)
 
-- **Efficient AI** — model compression, inference acceleration, dynamic / speculative decoding
-- **Generative Models**
-- **Agents & World Models**
-- **Machine Learning Systems**
-- **AI for Science**
+- **Efficient AI** — speculative & dynamic decoding, model compression (pruning / efficient MoE), inference acceleration.
+- **Generative Models** — visual autoregressive generation, fast / parallel decoding, efficient architecture conversion.
+- **Agents & World Models** — efficient inference & planning for agents and world models.
+- **AI for Science** — data-efficient modeling for biomedicine & molecular design.
 
 ### News 💬
 
