@@ -108,6 +108,8 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
   <b>Ying Li</b>, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
   <span class="pub-info"><i><b>ICML</b>, 2026</i> &nbsp;
     [<a href="https://icml.cc/virtual/2026/poster/66788" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+    [<a href="https://github.com/NeuraLiying/ARC-Decode" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
+    [<a href="https://neuraliying.github.io/ARC-Decode/" target="_blank" style="color:#2a7ce0;text-decoration:none;">Website</a>]
   </span>
 </p>
 
@@ -116,6 +118,8 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
   <b>Ying Li</b>, Zefang Wang, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
   <span class="pub-info"><i><b>ICML</b>, 2026</i> &nbsp;
     [<a href="https://icml.cc/virtual/2026/poster/65615" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+    [<a href="https://github.com/NeuraLiying/Prism-MoE" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
+    [<a href="https://neuraliying.github.io/Prism-MoE/" target="_blank" style="color:#2a7ce0;text-decoration:none;">Website</a>]
   </span>
 </p>
 
