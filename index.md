@@ -22,7 +22,8 @@ My work focuses on making large models **faster**, **lighter**, and **deployable
 
 <div style="max-height:500px;overflow-y:auto;padding:15px;background-color:#f9f9f9;border-radius:6px;">
   <ul>
-    <li><b><font color="#b80000">[Jun, 2026]</font></b> 🎉 I had two papers <b>provisionally accepted</b> by <b>ECCV 2026</b>: my first-author <b>LISA</b> (locality-informed speculative decoding) and <b>EVAR</b> (edge VAR via principled pruning).</li>
+    <li><b><font color="#b80000">[Jul, 2026]</font></b> ✈️ Attending <b>ICML 2026</b> in Seoul — presenting two posters and attending the <b>ByteDance</b> ICML banquet.</li>
+    <li><b><font color="#b80000">[Jun, 2026]</font></b> 🎉 I had two papers <b>provisionally accepted</b> by <b>ECCV 2026</b>: my first-author <b>LISA</b> (locality-informed speculative decoding) and <b>EVAR</b> (edge VAR via principled pruning) — congrats to Zefang Wang.</li>
     <li><b><font color="#b80000">[Jun, 2026]</font></b> ✈️ Attending <b>CVPR 2026</b>.</li>
     <li><b><font color="#b80000">[Jun, 2026]</font></b> 🏆 I was honored with the <b>CVPR 2026 Compute Transparency Champion</b> award.</li>
     <li><b><font color="#b80000">[May, 2026]</font></b> 📄 Released preprint <b>RankE</b> — end-to-end post-training for discrete text-to-image generation with decoder co-evolution — congrats to <a href="https://syjmelody.github.io/" target="_blank">Siyong Jian</a>. [<a href="https://arxiv.org/pdf/2605.21195" target="_blank">Paper</a>] [<a href="https://github.com/syjmelody/RankE" target="_blank">Code</a>]</li>
