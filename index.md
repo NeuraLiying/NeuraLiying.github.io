@@ -2,6 +2,13 @@
 layout: about
 ---
 
+### Contact 📬
+
+- ✉️ **Email:** [liying06@westlake.edu.cn](mailto:liying06@westlake.edu.cn)
+- 📱 **Phone / WeChat:** +86 15201976835
+- 🐙 **GitHub:** [NeuraLiying](https://github.com/NeuraLiying)
+- 📚 **Google Scholar:** [profile](https://scholar.google.com/citations?user=jIkHgFAAAAAJ&hl)
+
 ### About Me 👋
 
 Hi, I'm **Ying Li**, a researcher working on **Efficient AI**, **LLM/MLLM inference**, and **Machine Learning Systems**.
