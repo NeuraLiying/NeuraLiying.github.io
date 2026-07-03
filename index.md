@@ -5,7 +5,7 @@ layout: about
 
 Hi, I'm **Ying Li**, a postdoctoral researcher at Westlake University working on **Efficient AI**. My goal is to make **LLMs, MLLMs, and generative models — and the agentic systems built on them — more efficient and effective**: faster to run, lighter to deploy, and better at the tasks that matter.
 
-My research spans **inference acceleration** (speculative & dynamic decoding), **model compression** (pruning, efficient MoE), **efficient generative models** (visual autoregressive generation), and **agents & world models**, with applications in **AI for Science**.
+My research spans **inference acceleration** (speculative & dynamic decoding), **model compression** (pruning, efficient MoE), **efficient generative models** (visual autoregressive generation), **agents & world models**, and **AI for Science**.
 
 ### Research Interests 🔍
 
