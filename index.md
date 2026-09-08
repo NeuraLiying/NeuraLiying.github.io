@@ -21,6 +21,8 @@ My research spans **inference acceleration** (speculative & dynamic decoding), *
 
 <div style="max-height:500px;overflow-y:auto;padding:15px;background-color:#f9f9f9;border-radius:6px;">
   <ul>
+    <li><b><font color="#b80000">[Sep, 2026]</font></b> 📢 We present our tutorial <a href="https://einfer-mllm.github.io/Tutorial-ECCV-26" target="_blank"><b>Efficient MLLM Inference via Approximate and Exact Computing</b></a> at <b>ECCV 2026</b> (Sep 8, Malmö, Sweden) — <a href="https://github.com/EInfer-MLLM/Tutorial-ECCV-26" target="_blank"><b>materials</b></a> released, together with a companion <a href="https://github.com/cokeshao/Awesome-Multimodal-Token-Compression" target="_blank"><b>awesome list on multimodal token compression</b></a>.</li>
+    <li><b><font color="#b80000">[Sep, 2026]</font></b> ✈️ Attending <b>ECCV 2026</b> in Malmö — presenting <a href="https://eccv.ecva.net/virtual/2026/poster/3385" target="_blank"><b>LISA</b></a> (ExHall, Poster #137) and <a href="https://eccv.ecva.net/virtual/2026/poster/3596" target="_blank"><b>EVAR</b></a> (ExHall, Poster #18) at <b>Poster Session 4</b> (Fri, Sep 11, 4:00 PM CEST).</li>
     <li><b><font color="#b80000">[Jul, 2026]</font></b> ✈️ Attending <b>ICML 2026</b> in Seoul — presenting two posters and attending the <b>ByteDance</b> ICML banquet.</li>
     <li><b><font color="#b80000">[Jun, 2026]</font></b> 🎉 I had two papers <b>provisionally accepted</b> by <b>ECCV 2026</b>: my first-author <b>LISA</b> (locality-informed speculative decoding) and <b>EVAR</b> (edge VAR via principled pruning) — congrats to Zefang Wang.</li>
     <li><b><font color="#b80000">[Jun, 2026]</font></b> ✈️ Attending <b>CVPR 2026</b>.</li>
@@ -92,15 +94,23 @@ My research spans **inference acceleration** (speculative & dynamic decoding), *
 </p>
 
 <p>
-  <b>[Paper]</b> &nbsp; <b>EVAR: Edge Visual Autoregressive Models via Principled Pruning</b><br>
+  <b>[Paper]</b> &nbsp; <b><a href="https://eccv.ecva.net/virtual/2026/poster/3596" target="_blank" style="color:#2a7ce0;text-decoration:none;">EVAR: Edge Visual Autoregressive Models via Principled Pruning</a></b><br>
   Zefang Wang, <b>Ying Li</b>, Yanyu Li, Mingluo Su, Simin Xu, Guanzhong Tian, Huan Wang<sup>✉️</sup><br>
-  <span class="pub-info"><i><b>ECCV</b>, 2026</i> <i>(provisionally accepted)</i></span>
+  <span class="pub-info"><i><b>ECCV</b>, 2026</i> &nbsp;
+    [<a href="https://eccv.ecva.net/virtual/2026/poster/3596" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+    [<a href="https://github.com/aden9460/EVAR-code" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
+    [<a href="https://aden9460.github.io/EVAR/" target="_blank" style="color:#2a7ce0;text-decoration:none;">Website</a>]
+  </span>
 </p>
 
 <p>
-  <b>[Paper]</b> &nbsp; <b>LISA: Locality-Informed Speculative Decoding for Accelerating Autoregressive Image Generation</b><br>
-  <b>Ying Li</b>, Siyong Jian, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
-  <span class="pub-info"><i><b>ECCV</b>, 2026</i> <i>(provisionally accepted)</i></span>
+  <b>[Paper]</b> &nbsp; <b><a href="https://eccv.ecva.net/virtual/2026/poster/3385" target="_blank" style="color:#2a7ce0;text-decoration:none;">LISA: Locality-Informed Speculative Decoding for Accelerating Autoregressive Image Generation</a></b><br>
+  <b>Ying Li</b><sup>🌟</sup>, Siyong Jian<sup>🌟</sup>, Zhaode Wang, Zhiwen Chen, Chengfei Lv, Huan Wang<sup>✉️</sup><br>
+  <span class="pub-info"><i><b>ECCV</b>, 2026</i> &nbsp;
+    [<a href="https://eccv.ecva.net/virtual/2026/poster/3385" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
+    [<a href="https://github.com/NeuraLiying/LISA" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
+    [<a href="https://neuraliying.github.io/LISA/" target="_blank" style="color:#2a7ce0;text-decoration:none;">Website</a>]
+  </span>
 </p>
 
 <p>
