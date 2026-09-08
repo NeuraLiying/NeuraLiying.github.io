@@ -169,4 +169,4 @@ My research spans **inference acceleration** (speculative & dynamic decoding), *
 
 ### Academic Service 🤝
 
-- **Conference Reviewer:** ICML (2026), NeurIPS (2026)
+- **Conference Reviewer:** ICML (2026), NeurIPS (2026), AAAI (2027)
