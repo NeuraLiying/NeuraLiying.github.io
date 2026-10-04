@@ -21,6 +21,7 @@ My research spans **inference acceleration** (speculative & dynamic decoding), *
 
 <div style="max-height:500px;overflow-y:auto;padding:15px;background-color:#f9f9f9;border-radius:6px;">
   <ul>
+    <li><b><font color="#b80000">[Oct, 2026]</font></b> 🎉 <a href="https://arxiv.org/pdf/2605.21195" target="_blank"><b>RankE</b></a> is accepted by <b>NeurIPS 2026</b> — congrats to <a href="https://syjmelody.github.io/" target="_blank">Siyong Jian</a>.</li>
     <li><b><font color="#b80000">[Sep, 2026]</font></b> 🤝 At <b>ECCV 2026</b>, I'll be joining the <b>ECCV 2026 AI Talent Night</b> and the <b>Qingyuan Young Scientist Club Reception &amp; Dinner</b> (Sep 10, Malmö) — hope to see you there! 🙂</li>
     <li><b><font color="#b80000">[Sep, 2026]</font></b> 📢 We present our tutorial <a href="https://einfer-mllm.github.io/Tutorial-ECCV-26" target="_blank"><b>Efficient MLLM Inference via Approximate and Exact Computing</b></a> at <b>ECCV 2026</b> (Sep 8, Malmö, Sweden) — <a href="https://github.com/EInfer-MLLM/Tutorial-ECCV-26" target="_blank"><b>materials</b></a> released, together with a companion <a href="https://github.com/cokeshao/Awesome-Multimodal-Token-Compression" target="_blank"><b>awesome list on multimodal token compression</b></a>.</li>
     <li><b><font color="#b80000">[Sep, 2026]</font></b> ✈️ Attending <b>ECCV 2026</b> in Malmö — presenting <a href="https://eccv.ecva.net/virtual/2026/poster/3385" target="_blank"><b>LISA</b></a> (ExHall, Poster #137) and <a href="https://eccv.ecva.net/virtual/2026/poster/3596" target="_blank"><b>EVAR</b></a> (ExHall, Poster #18) at <b>Poster Session 4</b> (Fri, Sep 11, 4:00 PM CEST).</li>
@@ -86,9 +87,9 @@ My research spans **inference acceleration** (speculative & dynamic decoding), *
 *(Full list on [Google Scholar](https://scholar.google.com/citations?user=jIkHgFAAAAAJ). Selected recent papers below. <sup>✉️</sup> = corresponding author, <sup>🌟</sup> = co-first author.)*
 
 <p>
-  <b>[Arxiv]</b> &nbsp; <b><a href="https://arxiv.org/pdf/2605.21195" target="_blank" style="color:#2a7ce0;text-decoration:none;">RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution</a></b><br>
+  <b>[Paper]</b> &nbsp; <b><a href="https://arxiv.org/pdf/2605.21195" target="_blank" style="color:#2a7ce0;text-decoration:none;">RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution</a></b><br>
   Siyong Jian, Siyuan Li, Luyuan Zhang, Zedong Wang, Xin Jin, <b>Ying Li</b>, Cheng Tan, Huan Wang<sup>✉️</sup><br>
-  <span class="pub-info"><i><b>Preprint</b>, 2026</i> &nbsp;
+  <span class="pub-info"><i><b>NeurIPS</b>, 2026</i> &nbsp;
     [<a href="https://arxiv.org/pdf/2605.21195" target="_blank" style="color:#2a7ce0;text-decoration:none;">Paper</a>]
     [<a href="https://github.com/syjmelody/RankE" target="_blank" style="color:#2a7ce0;text-decoration:none;">Code</a>]
   </span>
@@ -170,4 +171,4 @@ My research spans **inference acceleration** (speculative & dynamic decoding), *
 
 ### Academic Service 🤝
 
-- **Conference Reviewer:** ICML (2026), NeurIPS (2026), AAAI (2027)
+- **Conference Reviewer:** ICML (2026), NeurIPS (2026), ECCV (2026), AAAI (2027), ICLR (2027)
